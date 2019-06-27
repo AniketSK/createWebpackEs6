@@ -1,7 +1,9 @@
 # createWebpackEs6
 Bit of Background story:
+
 I am preparing for interviews where I have to create lots of mini projects and always needs the setup of webpack, node and es6.
-So I wrote a batch script which does that for me and thought it will be helpful for you
+So I wrote a batch script which does that for me and thought it will be helpful for you.
+
 Follow the instruction to create a set up
 
 1. Clone the repo or download it
